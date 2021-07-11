@@ -42,7 +42,6 @@ with open('games.json') as games_file:
                 try:
                     encoded_string = base64.b64encode(image_file.read())
                     add_asset(game, 'data:image/png;base64,%s' % encoded_string.decode("utf-8"))
-                    print('here')
                     print('added %s' % game)
                 except HTTPError:
                     print('request failed while trying to add %s' % game)

@@ -1,13 +1,26 @@
 ps5:
+  - PPSA01325_00 # ASTRO's PLAYROOM
+  - PPSA01490_00 # Assassin's Creed® Valhalla
+  - PPSA01532_00 # Assassin's Creed® Valhalla
+  - PPSA01533_00 # Assassin's Creed® Valhalla
+  - PPSA01504_00 # Assassin's Creed® Valhalla
+  - PPSA01491_00 # Assassin's Creed® Valhalla
   - PPSA01342_00 # Demons Souls
   - PPSA01628_00 # Black Ops Cold War
   - PPSA01347_00 # Godfall
-  - PPSA01491_00 # Assassins Creed Valhalla
   - PPSA01387_00 # NBA 2K21
-  - PPSA01411_00 # Spider-Man: Miles Morales
+  - PPSA01411_00 # Marvel's Spider-Man: Miles Morales
+  - PPSA01418_00 # Marvel's Spider-Man: Miles Morales
+  - PPSA01419_00 # Marvel's Spider-Man: Miles Morales
+  - PPSA01461_00 # Marvel's Spider-Man: Miles Morales
+  - PPSA01460_00 # Marvel's Spider-Man: Miles Morales
+  - PPSA01417_00 # Marvel's Spider-Man: Miles Morales
   - PPSA01502_00 # Bugsnax
+  - PPSA01557_00 # Resident Evil Village
+  - PPSA01559_00 # Resident Evil Village
+  - PPSA01556_00 # Resident Evil Village
+  - PPSA02998_00 # Resident Evil Village
 ps4:
-  - CUSA07413_00 # God of War
   - CUSA07022_00 # Fortnite
   - CUSA05042_00 # Destiny 2
   - CUSA11100_00 # Black Ops 4
@@ -22,6 +35,7 @@ ps4:
   - CUSA05770_00 # Battlefront II
   - CUSA05877_00 # Persona 5
   - CUSA02299_00 # Spider-Man
+  - CUSA07413_00 # God of War
   - CUSA07408_00 # God of War
   - CUSA00744_00 # Minecraft
   - CUSA01163_00 # Rocket League

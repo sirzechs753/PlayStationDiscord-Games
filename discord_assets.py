@@ -1,10 +1,8 @@
 import base64, requests, os
 
-API_ENDPOINT = 'https://discordapp.com/api/v6'
-# TOKEN = os.environ['PSDISCORD_TOKEN']
-TOKEN = 'jIEhS_B1C1kbmrCZXk1j8CwSw8bds9ie'
-# CLIENT_ID = '457775893746810880'
-CLIENT_ID = '863339275130503178'
+API_ENDPOINT = 'https://discord.com/api/v8'
+TOKEN = 'INPUT_YOUR_DISCORD_TOKEN_HERE'
+CLIENT_ID = '863653045652029472'
 
 def get_assets():
     r = requests.get('%s/oauth2/applications/%s/assets' % (API_ENDPOINT, CLIENT_ID), headers={'Authorization': '%s' % TOKEN})
@@ -22,8 +20,8 @@ def add_asset(name, image_data):
         'Authorization': '%s' % TOKEN
     }
     r = requests.post('%s/oauth2/applications/%s/assets' % (API_ENDPOINT, CLIENT_ID), headers=headers, json=data)
+    
     r.raise_for_status()
-    print('hereAset')
     return r.json()
 
 def delete_asset(id):
