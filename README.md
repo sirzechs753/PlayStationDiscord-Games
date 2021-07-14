@@ -1,3 +1,25 @@
+# What i Change
+
+- Added PS5 Locale support for en-US en-CA by [@CodyRWhite](https://github.com/CodyRWhite) [Pull Request](https://github.com/Tustin/PlayStationDiscord-Games/pull/149) in the [original  repo](https://github.com/Tustin/PlayStationDiscord-Games) by [@Tustin](https://github.com/Tustin)
+- Added PS5 Locale support for en-id
+- Added Filter Support for PS5 games (only grab ps5 games listed in [games.yml](https://github.com/sirzechs753/PlayStationDiscord-Games/blob/master/games.yml))
+- Added PS5 backward compatibility support (clone ps4 games in [games.json](https://github.com/sirzechs753/PlayStationDiscord-Games/blob/master/games.json) to ps5 section)
+
+# How to Use
+
+- Install node js
+- Clone my forked [PlayStationDiscord](https://github.com/sirzechs753/PlayStationDiscord)
+- Follow the instruction in [Developing](https://github.com/sirzechs753/PlayStationDiscord#developing) section
+
+## Adding titles 
+
+- Open an Issue with feature request
+- List the titleId and the name of the game you want to add
+
+## Limitation
+
+Due to discord rich presence assets limited to 300 per application number of ps4 + ps5 games listed in [games.yml](https://github.com/sirzechs753/PlayStationDiscord-Games/blob/master/games.yml) must be 300 or lower for PS5 backward compatibility to work.
+
 # PlayStationDiscord-Games
 
 Games which are supported for [PlayStationDiscord](https://github.com/Tustin/PlayStationDiscord).
@@ -7,7 +29,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 ## Adding titles
 
 1. Fork the repo
-2. Modify `games.txt` and add the title id(s) you want (use the same format I used) **Please don't modify `games.json`, this file should be read-only and only modified by the script.**
+2. Modify `games.yml` and add the title id(s) you want (use the same format I used) **Please don't modify `games.json`, this file should be read-only and only modified by the script.**
 3. Open a PR with your changes.
 
 ## Supported Games
