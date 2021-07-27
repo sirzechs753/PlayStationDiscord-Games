@@ -90,4 +90,5 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA15233_00.png?raw=true" width="100" height="100"> |Black Desert                                                                                                                                |
 |<img src="ps4/CUSA00288_00.png?raw=true" width="100" height="100"> |FINAL FANTASY XIV                                                                                                                           |
 |<img src="ps4/CUSA09032_00.png?raw=true" width="100" height="100"> |YAKUZA 6: The Song of Life                                                                                                                  |
-|<img src="ps4/CUSA00003_00.png?raw=true" width="100" height="100"> |DRIVECLUB™                                                                                                                                  |
+|<img src="ps4/CUSA00003_00.png?raw=true" width="100" height="100"> |/DRIVECLUB™                                                                                                                                  |
+|<img src="ps4/CUSA17777_00.png?raw=true" width="100" height="100"> |Spellbreak                                                                                                                                  |
