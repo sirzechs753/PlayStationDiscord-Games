@@ -18,7 +18,7 @@
 
 ## Limitation
 
-Due to discord rich presence assets limited to 300 per application number of ps4 + ps5 games listed in [games.yml](https://github.com/sirzechs753/PlayStationDiscord-Games/blob/master/games.yml) must be 300 or lower for PS5 backward compatibility to work.
+Due to discord rich presence assets limited to 300 per application, number of ps4 + ps5 games listed in [games.yml](https://github.com/sirzechs753/PlayStationDiscord-Games/blob/master/games.yml) must be 300 or lower for PS5 backward compatibility to work.
 
 # PlayStationDiscord-Games
 
@@ -47,6 +47,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps5/PPSA01628_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War - Ultimate Edition PS4™ & PS5™                                                                            |
 |<img src="ps5/PPSA01342_00.png?raw=true" width="100" height="100">|Demon's Souls                                                                                                                               |
 |<img src="ps5/PPSA01342_00.png?raw=true" width="100" height="100">|Demon's Souls Digital Deluxe Edition                                                                                                        |
+|<img src="ps5/PPSA02562_00.png?raw=true" width="100" height="100">|Genshin Impact                                                                                                                              |
 |<img src="ps5/PPSA01347_00.png?raw=true" width="100" height="100">|Godfall Ascended Edition                                                                                                                    |
 |<img src="ps5/PPSA01347_00.png?raw=true" width="100" height="100">|Godfall Digital Deluxe                                                                                                                      |
 |<img src="ps5/PPSA01347_00.png?raw=true" width="100" height="100">|Godfall Standard Edition                                                                                                                    |
@@ -57,7 +58,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps5/PPSA01556_00.png?raw=true" width="100" height="100">|Resident Evil Village Deluxe Edition PS4 & PS5                                                                                              |
 |<img src="ps5/PPSA01556_00.png?raw=true" width="100" height="100">|Resident Evil Village PS4 & PS5                                                                                                             |
 |<img src="ps5/PPSA01556_00.png?raw=true" width="100" height="100">|Resident Evil Village & Resident Evil 7 Complete Bundle PS4 & PS5                                                                           |
-|<img src="ps5/PPSA02562_00.png?raw=true" width="100" height="100">|Genshin Impact                                                                                                                              |
+|<img src="ps5/PPSA01491_00.png?raw=true" width="100" height="100">|Assassin's Creed Valhalla                                                                                                                   |
 |<img src="ps4/CUSA07022_00.png?raw=true" width="100" height="100"> |Fortnite                                                                                                                                    |
 |<img src="ps4/CUSA05042_00.png?raw=true" width="100" height="100"> |Destiny 2                                                                                                                                   |
 |<img src="ps4/CUSA11100_00.png?raw=true" width="100" height="100"> |Call of Duty®: Black Ops 4                                                                                                                  |
@@ -90,5 +91,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA15233_00.png?raw=true" width="100" height="100"> |Black Desert                                                                                                                                |
 |<img src="ps4/CUSA00288_00.png?raw=true" width="100" height="100"> |FINAL FANTASY XIV                                                                                                                           |
 |<img src="ps4/CUSA09032_00.png?raw=true" width="100" height="100"> |YAKUZA 6: The Song of Life                                                                                                                  |
-|<img src="ps4/CUSA00003_00.png?raw=true" width="100" height="100"> |/DRIVECLUB™                                                                                                                                  |
+|<img src="ps4/CUSA00003_00.png?raw=true" width="100" height="100"> |DRIVECLUB™                                                                                                                                  |
+|<img src="ps4/CUSA00559_00.png?raw=true" width="100" height="100"> |The Last of Us™ Remastered                                                                                                                  |
 |<img src="ps4/CUSA17777_00.png?raw=true" width="100" height="100"> |Spellbreak                                                                                                                                  |
+|<img src="ps4/CUSA05855_00.png?raw=true" width="100" height="100"> |Assassin's Creed® Origins                                                                                                                   |
