@@ -18,7 +18,7 @@
 
 ## Limitation
 
-Due to discord rich presence assets limited to 300 per application number of ps4 + ps5 games listed in [games.yml](https://github.com/sirzechs753/PlayStationDiscord-Games/blob/master/games.yml) must be 300 or lower for PS5 backward compatibility to work.
+Due to discord rich presence assets limited to 300 per application, number of ps4 + ps5 games listed in [games.yml](https://github.com/sirzechs753/PlayStationDiscord-Games/blob/master/games.yml) must be 300 or lower for PS5 backward compatibility to work.
 
 # PlayStationDiscord-Games
 
