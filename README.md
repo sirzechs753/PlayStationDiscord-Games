@@ -85,3 +85,4 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA03173_00.png?raw=true" width="100" height="100"> |Bloodborne™                                                                                                                                 |
 |<img src="ps4/CUSA10249_00.png?raw=true" width="100" height="100"> |The Last of Us™ Part II                                                                                                                     |
 |<img src="ps4/CUSA17416_00.png?raw=true" width="100" height="100"> |Persona 5 Royal                                                                                                                             |
+|<img src="ps4/CUSA00223_00.png?raw=true" width="100" height="100"> |inFAMOUS Second Son™                                                                                                                        |
