@@ -21,6 +21,8 @@ ps5:
   - PPSA01556_00 # Resident Evil Village
   - PPSA02998_00 # Resident Evil Village
   - PPSA02562_00 # Genshin Impact
+  - PPSA02181_00 # Guilty Gear -Strive-
+  - PPSA02048_00 # Dead by Daylight Special Edition
 ps4:
   - CUSA07022_00 # Fortnite
   - CUSA05042_00 # Destiny 2
@@ -62,6 +64,14 @@ ps4:
   - CUSA10249_00 # The Last of Us Part II
   - CUSA17416_00 # Persona 5 Royal
   - CUSA00223_00 # inFamous Second Son
+  - CUSA26225_00 # Splitgate
+  - CUSA19210_00 # Guilty Gear -Strive-
+  - CUSA01842_00 # Overwatch
+  - CUSA08444_00 # Dead By Daylight Special Edition
+  - CUSA01606_00 # Skullgirls: 2nd Encore
+  - CUSA11192_00 # Blazblue: Cross Tag Battle
+  - CUSA13338_00 # DOOM Eternal
+  - CUSA00419_00 # Grand Theft Auto V
 ps3:
 
 vita:

@@ -40,9 +40,11 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps5/PPSA01325_00.png?raw=true" width="100" height="100">|ASTRO's PLAYROOM                                                                                                                            |
 |<img src="ps5/PPSA01502_00.png?raw=true" width="100" height="100">|Bugsnax                                                                                                                                     |
 |<img src="ps5/PPSA01628_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War                                                                           |
+|<img src="ps5/PPSA02048_00.png ?raw=true" width="100" height="100">|Dead by Daylight PS4™ & PS5™                                                                                                                |
 |<img src="ps5/PPSA01342_00.png?raw=true" width="100" height="100">|Demon's Souls                                                                                                                               |
 |<img src="ps5/PPSA02562_00.png?raw=true" width="100" height="100">|Genshin Impact                                                                                                                              |
 |<img src="ps5/PPSA01347_00.png?raw=true" width="100" height="100">|Godfall                                                                                                                   |
+|<img src="ps5/PPSA02181_00.png ?raw=true" width="100" height="100">|Guilty Gear -Strive-                                                                                                                        |
 |<img src="ps5/PPSA01411_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales                                                                                                |
 |<img src="ps5/PPSA01387_00.png?raw=true" width="100" height="100">|NBA 2K21 Next Generation                                                                                                                    |
 |<img src="ps5/PPSA01556_00.png?raw=true" width="100" height="100">|Resident Evil Village                                                                                              |
@@ -86,3 +88,11 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA10249_00.png?raw=true" width="100" height="100"> |The Last of Us™ Part II                                                                                                                     |
 |<img src="ps4/CUSA17416_00.png?raw=true" width="100" height="100"> |Persona 5 Royal                                                                                                                             |
 |<img src="ps4/CUSA00223_00.png?raw=true" width="100" height="100"> |inFAMOUS Second Son™                                                                                                                        |
+|<img src="ps4/CUSA26225_00.png?raw=true" width="100" height="100"> |Splitgate                                                                                                                                   |
+|<img src="ps4/CUSA19210_00.png?raw=true" width="100" height="100"> |Guilty Gear -Strive-                                                                                                                        |
+|<img src="ps4/CUSA01842_00.png?raw=true" width="100" height="100"> |Overwatch: Origins Edition                                                                                                                  |
+|<img src="ps4/CUSA08444_00.png?raw=true" width="100" height="100"> |Dead by Daylight                                                                                                                            |
+|<img src="ps4/CUSA01606_00.png?raw=true" width="100" height="100"> |Skullgirls 2nd Encore                                                                                                                       |
+|<img src="ps4/CUSA11192_00.png?raw=true" width="100" height="100"> |BLAZBLUE CROSS TAG BATTLE                                                                                                                   |
+|<img src="ps4/CUSA13338_00.png?raw=true" width="100" height="100"> |DOOM Eternal                                                                                                                                |
+|<img src="ps4/CUSA00419_00.png?raw=true" width="100" height="100"> |Grand Theft Auto V                                                                                                                          |
