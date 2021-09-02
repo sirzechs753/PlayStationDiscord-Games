@@ -40,11 +40,11 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps5/PPSA01325_00.png?raw=true" width="100" height="100">|ASTRO's PLAYROOM                                                                                                                            |
 |<img src="ps5/PPSA01502_00.png?raw=true" width="100" height="100">|Bugsnax                                                                                                                                     |
 |<img src="ps5/PPSA01628_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War                                                                           |
-|<img src="ps5/PPSA02048_00.png ?raw=true" width="100" height="100">|Dead by Daylight PS4™ & PS5™                                                                                                                |
+|<img src="ps5/PPSA02048_00.png?raw=true" width="100" height="100">|Dead by Daylight PS4™ & PS5™                                                                                                                |
 |<img src="ps5/PPSA01342_00.png?raw=true" width="100" height="100">|Demon's Souls                                                                                                                               |
 |<img src="ps5/PPSA02562_00.png?raw=true" width="100" height="100">|Genshin Impact                                                                                                                              |
 |<img src="ps5/PPSA01347_00.png?raw=true" width="100" height="100">|Godfall                                                                                                                   |
-|<img src="ps5/PPSA02181_00.png ?raw=true" width="100" height="100">|Guilty Gear -Strive-                                                                                                                        |
+|<img src="ps5/PPSA02181_00.png?raw=true" width="100" height="100">|Guilty Gear -Strive-                                                                                                                        |
 |<img src="ps5/PPSA01411_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man: Miles Morales                                                                                                |
 |<img src="ps5/PPSA01387_00.png?raw=true" width="100" height="100">|NBA 2K21 Next Generation                                                                                                                    |
 |<img src="ps5/PPSA01556_00.png?raw=true" width="100" height="100">|Resident Evil Village                                                                                              |
