@@ -96,3 +96,4 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA11192_00.png?raw=true" width="100" height="100"> |BLAZBLUE CROSS TAG BATTLE                                                                                                                   |
 |<img src="ps4/CUSA13338_00.png?raw=true" width="100" height="100"> |DOOM Eternal                                                                                                                                |
 |<img src="ps4/CUSA00419_00.png?raw=true" width="100" height="100"> |Grand Theft Auto V                                                                                                                          |
+|<img src="ps4/CUSA10218_00.png?raw=true" width="100" height="100"> |Horizon Zero Dawn™: Complete Edition                                                                                                        |
