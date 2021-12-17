@@ -70,6 +70,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA03041_00.png?raw=true" width="100" height="100">|Red Dead Redemption 2                                         |
 |<img src="ps4/CUSA01788_00.png?raw=true" width="100" height="100">|Tom Clancy's Rainbow Six® Siege                               |
 |<img src="ps4/CUSA07211_00.png?raw=true" width="100" height="100">|FINAL FANTASY VII REMAKE                                      |
+|<img src="ps4/CUSA29533_00.png?raw=true" width="100" height="100">|Five Nights at Freddy's: Security Breach                      |
 |<img src="ps4/CUSA14168_00.png?raw=true" width="100" height="100">|RESIDENT EVIL 3                                               |
 |<img src="ps4/CUSA09249_00.png?raw=true" width="100" height="100">|Call of Duty®: Modern Warfare® 2 Campaign Remastered          |
 |<img src="ps4/CUSA12031_00.png?raw=true" width="100" height="100">|KINGDOM HEARTS Ⅲ                                              |
