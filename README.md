@@ -1,3 +1,6 @@
+# THIS REPO IS NO LONGER NEEDED
+Since discord rich presence now support custom url icon and the [original  repo](https://github.com/Tustin/PlayStationDiscord-Games) by [@Tustin](https://github.com/Tustin) already support it, this repo isn't needed anymore.
+
 # What i Change
 
 - Added PS5 Locale support for en-US en-CA by [@CodyRWhite](https://github.com/CodyRWhite) [Pull Request](https://github.com/Tustin/PlayStationDiscord-Games/pull/149) in the [original  repo](https://github.com/Tustin/PlayStationDiscord-Games) by [@Tustin](https://github.com/Tustin)
